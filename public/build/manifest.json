@@ -1,4 +1,152 @@
 {
+  "public/assets/css/style.css": {
+    "file": "assets/style-DWHVSAQq.css",
+    "src": "public/assets/css/style.css",
+    "isEntry": true
+  },
+  "public/assets/js/main.js": {
+    "file": "assets/main-C-9M0nZ4.js",
+    "name": "main",
+    "src": "public/assets/js/main.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/apexcharts/apexcharts.min.js": {
+    "file": "assets/apexcharts.min-ChbcGNWo.js",
+    "name": "apexcharts.min",
+    "src": "public/assets/vendor/apexcharts/apexcharts.min.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/bootstrap-icons/bootstrap-icons.css": {
+    "file": "assets/bootstrap-icons-DrmbbJ7-.css",
+    "src": "public/assets/vendor/bootstrap-icons/bootstrap-icons.css",
+    "isEntry": true
+  },
+  "public/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-BOrJxbIo.woff",
+    "src": "public/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+  },
+  "public/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-BtvjY1KL.woff2",
+    "src": "public/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+  },
+  "public/assets/vendor/bootstrap/css/bootstrap.min.css": {
+    "file": "assets/bootstrap-DUEfxN0n.css",
+    "src": "public/assets/vendor/bootstrap/css/bootstrap.min.css",
+    "isEntry": true
+  },
+  "public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min-BOEsi5Is.js",
+    "name": "bootstrap.bundle.min",
+    "src": "public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/boxicons/css/boxicons.min.css": {
+    "file": "assets/boxicons-Bu1q67CW.css",
+    "src": "public/assets/vendor/boxicons/css/boxicons.min.css",
+    "isEntry": true
+  },
+  "public/assets/vendor/boxicons/fonts/boxicons.eot": {
+    "file": "assets/boxicons-CSrLvhY_.eot",
+    "src": "public/assets/vendor/boxicons/fonts/boxicons.eot"
+  },
+  "public/assets/vendor/boxicons/fonts/boxicons.svg": {
+    "file": "assets/boxicons-Dp7W9qN3.svg",
+    "src": "public/assets/vendor/boxicons/fonts/boxicons.svg"
+  },
+  "public/assets/vendor/boxicons/fonts/boxicons.ttf": {
+    "file": "assets/boxicons-EIQNrSje.ttf",
+    "src": "public/assets/vendor/boxicons/fonts/boxicons.ttf"
+  },
+  "public/assets/vendor/boxicons/fonts/boxicons.woff": {
+    "file": "assets/boxicons-CTVby2V1.woff",
+    "src": "public/assets/vendor/boxicons/fonts/boxicons.woff"
+  },
+  "public/assets/vendor/boxicons/fonts/boxicons.woff2": {
+    "file": "assets/boxicons-CeGEncwm.woff2",
+    "src": "public/assets/vendor/boxicons/fonts/boxicons.woff2"
+  },
+  "public/assets/vendor/chart.js/chart.umd.js": {
+    "file": "assets/chart.umd-BizeoEtC.js",
+    "name": "chart.umd",
+    "src": "public/assets/vendor/chart.js/chart.umd.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/echarts/echarts.min.js": {
+    "file": "assets/echarts.min-bnzPc6G1.js",
+    "name": "echarts.min",
+    "src": "public/assets/vendor/echarts/echarts.min.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/php-email-form/validate.js": {
+    "file": "assets/validate-BnPSJbk9.js",
+    "name": "validate",
+    "src": "public/assets/vendor/php-email-form/validate.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/quill/quill.bubble.css": {
+    "file": "assets/quill-BcmieKoW.css",
+    "src": "public/assets/vendor/quill/quill.bubble.css",
+    "isEntry": true
+  },
+  "public/assets/vendor/quill/quill.js": {
+    "file": "assets/quill-DS3ZiB03.js",
+    "name": "quill",
+    "src": "public/assets/vendor/quill/quill.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/quill/quill.snow.css": {
+    "file": "assets/quill-D3eoGaYv.css",
+    "src": "public/assets/vendor/quill/quill.snow.css",
+    "isEntry": true
+  },
+  "public/assets/vendor/remixicon/remixicon.css": {
+    "file": "assets/remixicon-DpK8dpLk.css",
+    "src": "public/assets/vendor/remixicon/remixicon.css",
+    "isEntry": true
+  },
+  "public/assets/vendor/remixicon/remixicon.eot": {
+    "file": "assets/remixicon-DUK49BtM.eot",
+    "src": "public/assets/vendor/remixicon/remixicon.eot"
+  },
+  "public/assets/vendor/remixicon/remixicon.svg": {
+    "file": "assets/remixicon-ncU_JTfY.svg",
+    "src": "public/assets/vendor/remixicon/remixicon.svg"
+  },
+  "public/assets/vendor/remixicon/remixicon.ttf": {
+    "file": "assets/remixicon-D9ZyeRwQ.ttf",
+    "src": "public/assets/vendor/remixicon/remixicon.ttf"
+  },
+  "public/assets/vendor/remixicon/remixicon.woff": {
+    "file": "assets/remixicon-DfzPQSMi.woff",
+    "src": "public/assets/vendor/remixicon/remixicon.woff"
+  },
+  "public/assets/vendor/remixicon/remixicon.woff2": {
+    "file": "assets/remixicon-BVOYbT3K.woff2",
+    "src": "public/assets/vendor/remixicon/remixicon.woff2"
+  },
+  "public/assets/vendor/simple-datatables/simple-datatables.js": {
+    "file": "assets/simple-datatables-CiS-4BOT.js",
+    "name": "simple-datatables",
+    "src": "public/assets/vendor/simple-datatables/simple-datatables.js",
+    "isEntry": true
+  },
+  "public/assets/vendor/simple-datatables/style.css": {
+    "file": "assets/style-eVyCWxog.css",
+    "src": "public/assets/vendor/simple-datatables/style.css",
+    "isEntry": true
+  },
+  "public/assets/vendor/tinymce/tinymce.min.js": {
+    "file": "assets/tinymce.min-BvlMnJee.js",
+    "name": "tinymce.min",
+    "src": "public/assets/vendor/tinymce/tinymce.min.js",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
   "resources/js/app.js": {
     "file": "assets/app-T_N717eG.js",
     "name": "app",
