@@ -9,5 +9,5 @@ export default {
 </script>
 
 <style>
-/* 在這裡添加你的樣式 */
+
 </style>
